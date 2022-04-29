@@ -10,7 +10,6 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	position: relative;
-	border-bottom: 8px solid #222;
 }
 
 .inner-element {
