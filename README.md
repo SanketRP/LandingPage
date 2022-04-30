@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
 
-- 🔭 Preview the Website [Elagh](https://sanketrp.github.io/Oasis-LandingPage/Landing)
+- 🔭 Preview the Website [Elagh](https://sanketrp.github.io/OIBSIP-LandingPage/Landing)
 
 - 📫 How to reach me **sanketrp123@gmail.com**
 
@@ -21,4 +21,4 @@
 <br/>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanketRP&repo=Oasis-LandingPage&theme=tokyonight&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanketRP&repo=OIBSIP-LandingPage&theme=tokyonight&hide_border=true)
