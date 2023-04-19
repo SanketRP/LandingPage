@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
 
-- 🔭 Preview the Website [Elagh](https://sanketrp.github.io/OIBSIP-LandingPage/Landing)
+- 🔭 Preview the Website [Elagh](https://sanketrp.github.io/LandingPage/Landing/)
 
 - 📫 How to reach me **sanketrp123@gmail.com**
 
